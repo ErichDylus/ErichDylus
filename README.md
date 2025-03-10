@@ -8,7 +8,7 @@ enum ErichDylus { ATTORNEY, PROGRAMMER, FOUNDER }
 {
   "company": "Varia Law",
   "role": "founder",
-  "description": "law, consulting, and programming firm focused on autonomous technologies such as EVM smart contracts and AI",
+  "description": "law, consulting, and programming firm focused on autonomous technology like EVM smart contracts and AI",
   "jurisdictions": ["MD", "DC"]
   "website": "varia.law"
 }
