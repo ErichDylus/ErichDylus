@@ -8,7 +8,7 @@ enum ErichDylus { ATTORNEY, PROGRAMMER, FOUNDER }
 {
   "company": "Varia Law",
   "role": "founder",
-  "description": "law, consulting, and programming firm focused on autonomous technology like EVM smart contracts and AI",
+  "description": "law, consulting, and programming boutique firm",
   "jurisdictions": ["MD", "DC"]
   "website": "varia.law"
 }
@@ -21,19 +21,28 @@ enum ErichDylus { ATTORNEY, PROGRAMMER, FOUNDER }
 {
   "company": "CamoText",
   "role": "founder",
-  "description": "fully offline text anonymizer software, powered by NLP and built for compliant AI / LLM workflows",
-  "language": "python",
-  "website": "camotext.ai"
+  "product": {
+      "name": "CamoText",
+      "description": "fully offline text anonymization and redaction software, powered by NLP",
+      "language": "python",
+      "website": "camotext.ai"
+  },
+  "product": {
+      "name": "CamoSign",
+      "description": "private e-signatures with zero uploads of documents or signatory info, Ethereum-timestamped",
+      "language": "typescript",
+      "website": "camosign.io"
+  }
 }
+
 ```
-🔗 [camotext.ai](https://camotext.ai/)
+🔗 [camotext.ai](https://camotext.ai/), [camosign.io](https://camosign.io/)
 
 <h2 align="center" style="vertical-align: middle;"><img src="https://varia.law/assets/LeXscroWLogo.png" alt="LeXscroW Logo" height="20" style="vertical-align: middle;">  LeXscroW </h2>
 
 ``` json
 {
   "product": "LeXscroW",
-  "role": "product lead",
   "description": "immutable, non-custodial, flexibly-conditioned smart contract escrow",
   "language": "solidity"
 }
