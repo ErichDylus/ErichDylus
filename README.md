@@ -32,11 +32,17 @@ enum ErichDylus { ATTORNEY, PROGRAMMER, FOUNDER }
       "description": "private e-signatures with zero uploads of documents or signatory info, Ethereum-timestamped",
       "language": "typescript",
       "website": "camosign.io"
+  },
+  "product": {
+      "name": "CamoVoice",
+      "description": "fully offline, private speech-to-text desktop application",
+      "language": "python",
+      "website": "camovoice.com"
   }
 }
 
 ```
-🔗 [camotext.ai](https://camotext.ai/), [camosign.io](https://camosign.io/)
+🔗 [camotext.ai](https://camotext.ai/), [camosign.io](https://camosign.io/), [camovoice.com](https://camovoice.com/)
 
 <h2 align="center" style="vertical-align: middle;"><img src="https://varia.law/assets/LeXscroWLogo.png" alt="LeXscroW Logo" height="20" style="vertical-align: middle;">  LeXscroW </h2>
 
